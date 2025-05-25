@@ -1,0 +1,36 @@
+.form {
+    margin: 5% 10% 2% 10%;
+    padding: 2%;
+    border-radius: 15px;
+    background-color: lightcoral;
+}
+
+table {
+    margin: 2% 10% 10% 10%;
+    padding: 2%;
+    border-radius: 15px;
+    background-color: lightcoral;
+    width: 80%;
+    color: #333;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+table th, table td {
+    border: 1px solid #ffffff;
+    padding: 12px 15px;
+    text-align: left;
+}
+
+table th {
+    background-color: #d65c5c;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f8d7da;
+}
+
+table tr:nth-child(odd) {
+    background-color: #ffffff;
+}

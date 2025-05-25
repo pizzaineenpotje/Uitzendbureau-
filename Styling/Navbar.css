@@ -1,0 +1,11 @@
+.navbar {
+    padding: 0.5rem 1rem; 
+}
+
+.logout-btn:hover {
+    color: #dc3545; 
+}
+
+.nav-link.active {
+    font-weight: bold; 
+}
